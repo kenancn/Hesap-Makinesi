@@ -1,4 +1,4 @@
 Hesap-Makinesi
 ==============
 
-Git eğitim projesi :pencil:
+Git eğitim projesi. :pencil:
